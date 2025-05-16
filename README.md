@@ -1,6 +1,6 @@
 git init
 git add .
-git commit -m 'Name'
+git commit -m '{Name}'
 
 git clone
 
