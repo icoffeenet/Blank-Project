@@ -1,6 +1,7 @@
 **Vite Create**
 ---
-npm create vite . 
+npm create vite . \
+npm run dev
 --- ---
 **Git Commit**
 ---
@@ -34,7 +35,6 @@ package.json
 vite.config.js \
 base: "/my-project", \
 npm run deploy 
+--- ---
 
-npm create vite .
 
-npm run dev
