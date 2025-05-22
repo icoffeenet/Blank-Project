@@ -35,11 +35,6 @@ vite.config.js \
 base: "/my-project", \
 npm run deploy 
 
-
-
-
-
-
 npm create vite .
 
 npm run dev
