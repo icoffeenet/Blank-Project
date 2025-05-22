@@ -10,14 +10,14 @@ git remote remove {origin}\
 npm install\
 ---
 npm install --save-dev gh-pages\
-## package.json ##\
+package.json 
 "scripts": {\
     // ...\
     "predeploy": "npm run build",\
     "deploy": "gh-pages -d dist"\
 }\
 
-## vite.config.js ##\
+vite.config.js
 base: "/my-project",\
 npm run deploy\
 
