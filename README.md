@@ -1,34 +1,34 @@
 **Vite Create**
----\
-npm create vite .
+---
+npm create vite . \
 **Git Commit**
----\
-git init\
-git add .\
-git commit -m '{Comment}'\
+---
+git init \
+git add . \
+git commit -m '{Comment}' \
 **Clone Repo**
----\
-git clone {Site} .\
+---
+git clone {Site} . \
 **Remove Remote**
----\
-git remote\
-git remote remove {origin}\
+---
+git remote \
+git remote remove {origin} \
 **Install Ater Clone**
----\
-npm install\
+---
+npm install \
 **Deploy Project**
----\
-npm install --save-dev gh-pages\
+---
+npm install --save-dev gh-pages \
 package.json 
-"scripts": {\
+"scripts": { \
     // ...\
-    "predeploy": "npm run build",\
-    "deploy": "gh-pages -d dist"\
-}\
+    "predeploy": "npm run build", \
+    "deploy": "gh-pages -d dist" \
+} \
 
-vite.config.js
-base: "/my-project",\
-npm run deploy\
+vite.config.js \
+base: "/my-project", \
+npm run deploy \
 
 
 
