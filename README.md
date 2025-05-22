@@ -29,11 +29,11 @@ package.json
     // ...\
     "predeploy": "npm run build", \
     "deploy": "gh-pages -d dist" \
-} \
+} 
 
 vite.config.js \
 base: "/my-project", \
-npm run deploy \
+npm run deploy 
 
 
 
