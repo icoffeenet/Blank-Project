@@ -7,16 +7,20 @@ npm create vite . \
 git init \
 git add . \
 git commit -m '{Comment}' \
+--- ---
 **Clone Repo**
 ---
 git clone {Site} . \
+--- ---
 **Remove Remote**
 ---
 git remote \
 git remote remove {origin} \
+--- ---
 **Install Ater Clone**
 ---
 npm install \
+--- ---
 **Deploy Project**
 ---
 npm install --save-dev gh-pages \
