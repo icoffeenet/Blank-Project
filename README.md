@@ -1,6 +1,7 @@
 **Vite Create**
 ---
-npm create vite . \\
+npm create vite . \
+------
 **Git Commit**
 ---
 git init \
