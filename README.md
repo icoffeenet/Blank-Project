@@ -1,7 +1,7 @@
 **Vite Create**
 ---
 npm create vite . \
-------
+--- ---
 **Git Commit**
 ---
 git init \
