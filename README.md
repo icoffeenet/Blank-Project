@@ -1,25 +1,25 @@
 **Vite Create**
 ---
-npm create vite . \
+npm create vite . 
 --- ---
 **Git Commit**
 ---
 git init \
 git add . \
-git commit -m '{Comment}' \
+git commit -m '{Comment}' 
 --- ---
 **Clone Repo**
 ---
-git clone {Site} . \
+git clone {Site} . 
 --- ---
 **Remove Remote**
 ---
 git remote \
-git remote remove {origin} \
+git remote remove {origin} 
 --- ---
 **Install Ater Clone**
 ---
-npm install \
+npm install 
 --- ---
 **Deploy Project**
 ---
